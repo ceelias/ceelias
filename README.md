@@ -51,7 +51,7 @@ I’m a software engineer with a background and interest in anything cybersecuri
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceelias&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceelias&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -70,9 +70,9 @@ I’m a software engineer with a background and interest in anything cybersecuri
 <br />
 
 ----
+<!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-<!--
 **ceelias/ceelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
